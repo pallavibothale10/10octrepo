@@ -12,7 +12,7 @@ public class Diff_StrinStringBufferStringBuilderr {
 		s1= "newpallavi";
 		System.out.println(s1);
 		
-		StringBuffer s2 = new StringBuffer("pallavi");
+		StringBuffer s2 = new StringBuffer("pallavi ");
 		System.out.println(s2);
 		s2.append("Bothale");
 		System.out.println(s2);
